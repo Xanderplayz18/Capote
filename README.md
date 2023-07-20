@@ -1,12 +1,11 @@
 # Capote
-A portable SuperForth compiler designed with performance and interoperability in mind.
+A portable Cish compiler designed with performance and interoperability in mind.
 
 ## TO INSTALL
 - Download [the latest release](https://github.com/TheRealMichaelWang/Capote/releases/download/1.0/capote.exe)
 - Ensure you have GCC installed
   - If you are using windows [install these prebuilt binaries](https://gnutoolchains.com/download/)
 - Copy and paste [these examples](https://github.com/TheRealMichaelWang/Capote/tree/main/examples) into `capote.exe`'s working directory.
-  - It is recommended that only the examples with the `.sf` extension be run. The `.txt` files are just some standard library files.
 - You need PROS if you intend to target vex.
 
 ## TO RUN
